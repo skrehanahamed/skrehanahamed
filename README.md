@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skrehanahamed
 - 👀 I’m interested in FUll stack , CLoud/ Iot ,Graphics Designing and VFX .
-- 🌱 I’m currently learning MERN STACK.
+- 🌱 I’m currently learning UnixCppSys.
 - 💞️ I’m looking to collaborate on any small projects.
 - 📫 you to reach me via email (skrehanahamed5@gmail.com)
 
