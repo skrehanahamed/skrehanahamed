@@ -1,4 +1,4 @@
-👋 Hi there! I'm Sk Rehan Ahamed, an embedded C developer currently working at Wipro. My primary focus lies in Autosar and embedded systems. I have a solid foundation in Functional Safety (FuSa) practices, which is crucial in ensuring the reliability of automotive software.
+👋 Hi there! I'm Sk Rehan Ahamed, an Senior embedded developer currently working at Alten India. My primary focus lies in Autosar and embedded systems. I have a solid foundation in Functional Safety (FuSa) practices, which is crucial in ensuring the reliability of automotive software.
 
 🌱 Currently, I'm diving into UnixCppSys, expanding my skill set to encompass Unix-based systems and C++ development. Additionally, I'm delving into QT/QML, exploring graphical user interface development for embedded applications.
 
