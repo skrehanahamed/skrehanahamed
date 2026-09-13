@@ -91,6 +91,30 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 ## Featured Projects
 
+<div align="center">
+  <a href="https://github.com/skrehanahamed/Apex_MidEnd_Cluster">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_Cluster&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_Cluster" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/skrehanahamed/Apex_MidEnd_IVI">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_IVI&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_IVI" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/skrehanahamed/meta-custom-rpi5">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=meta-custom-rpi5&theme=tokyonight&hide_border=true&border_radius=8" alt="meta-custom-rpi5" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/skrehanahamed/virtual-body-ecu">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=virtual-body-ecu&theme=tokyonight&hide_border=true&border_radius=8" alt="virtual-body-ecu" width="48%" />
+  </a>
+</div>
+
+<br/>
+
 | Project | Description | Stars | Stack |
 | :--- | :--- | :---: | :--- |
 | [**Apex_MidEnd_Cluster**](https://github.com/skrehanahamed/Apex_MidEnd_Cluster) | Production-grade automotive digital cockpit HMI modeling instrument cluster architecture with deterministic powertrain telemetry and 60 FPS hardware-accelerated rendering. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/Apex_MidEnd_Cluster?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/Apex_MidEnd_Cluster/stargazers) | `Qt 6` `Modern C++20` `QML` `Automotive HMI` |
@@ -139,6 +163,14 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
   &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skrehanahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="175" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/skrehanahamed">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrehanahamed&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
   </a>
 </div>
 
