@@ -34,7 +34,7 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 ## Industry Experience & Client Engagements
 
 <div align="center">
-  <img src="./assets/clients_marquee.gif" alt="Enterprise Clients & Partners Marquee" width="100%" />
+  <img src="./assets/clients_carousel.gif" alt="Enterprise Clients & Partners Carousel" width="100%" />
 </div>
 
 <br/>
