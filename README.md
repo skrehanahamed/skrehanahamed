@@ -169,17 +169,9 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 <div align="center">
   <a href="https://github.com/skrehanahamed">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrehanahamed&theme=tokyonight" alt="Languages per Repo" height="160" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/skrehanahamed">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrehanahamed&theme=tokyonight" alt="Productive Time" height="160" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed">
     <img src="https://streak-stats.demolab.com/?user=skrehanahamed&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160" />
   </a>
