@@ -8,7 +8,6 @@
   <p align="center">
     <a href="https://github.com/skrehanahamed"><img src="https://img.shields.io/badge/Role-Senior%20Embedded%20Developer-007ACC?style=for-the-badge" alt="Role" /></a>
     <a href="https://github.com/skrehanahamed"><img src="https://img.shields.io/badge/Domain-Automotive%20%26%20Digital%20Cockpits-1E88E5?style=for-the-badge" alt="Domain" /></a>
-    <a href="https://github.com/skrehanahamed"><img src="https://img.shields.io/badge/Company-L%26T%20Technology%20Services-004C97?style=for-the-badge" alt="Company" /></a>
     <a href="https://github.com/skrehanahamed"><img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-43A047?style=for-the-badge" alt="Location" /></a>
     <a href="https://www.linkedin.com/in/sk-rehan-ahamed-23a4a922b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://komarev.com/ghpvc/?username=skrehanahamed&style=for-the-badge&color=00D2FF"><img src="https://komarev.com/ghpvc/?username=skrehanahamed&style=for-the-badge&color=00D2FF" alt="Profile Views" /></a>
@@ -20,7 +19,7 @@
 
 ## About
 
-Senior Embedded Developer at **L&T Technology Services** based in Bangalore, India. I specialize in automotive software engineering, focusing on the intersection of embedded systems, deterministic vehicle communication, and next-generation digital cockpit HMIs.
+Senior Embedded Developer based in Bangalore, India, specializing in automotive software architecture, deterministic vehicle communication, and next-generation digital cockpit HMIs.
 
 ### Core Experience & Responsibilities
 * **Automotive Digital Cockpits**: Designing and engineering full-lifecycle instrument cluster HMIs and In-Vehicle Infotainment (IVI) systems with Qt 6 (QML / Qt Quick) and modern C++ (C++17/20).
@@ -28,20 +27,6 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 * **Functional Safety & Quality Standards**: Developing code aligned with ISO 26262 functional safety processes, following MISRA C/C++ coding guidelines, and maintaining verification coverage using Google Test (GTest).
 * **Embedded OS & BSP Engineering**: Authoring custom Yocto Project BSP layers, BitBake recipes, and headless system configurations for ARM64 embedded platforms, including the Raspberry Pi 5.
 * **Bare-Metal Microcontroller Development**: Firmware development for ARM Cortex-M microcontrollers, low-level bus drivers (SPI, I2C, UART, GPIO), and virtual ECU simulations in QEMU.
-
----
-
-## Industry Experience & Client Engagements
-
-<div align="center">
-  <img src="./assets/clients_carousel.gif" alt="Enterprise Clients & Partners Carousel" width="100%" />
-</div>
-
-<br/>
-
-| Organizations | Client Programs & Domains |
-| :--- | :--- |
-| **L&T Technology Services (LTTS)** — Senior Embedded Developer *(Current)*<br/>**Alten India** — Senior Embedded Developer<br/>**Wipro** — Embedded Software Developer | **Stellantis** — Global Automotive OEM<br/>**Continental** — Global Automotive Tier-1<br/>**Ford Motor Company** — Automotive OEM<br/>**Marelli** — Tier-1 Cockpits & Powertrain<br/>**Suzuki** — Automotive OEM<br/>**ASML** — Semiconductor & Precision Engineering |
 
 ---
 
@@ -145,11 +130,23 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 
 ---
 
-## GitHub Activity
+## GitHub Metrics & Activity
 
 <div align="center">
   <a href="https://github.com/skrehanahamed">
-    <img src="https://streak-stats.demolab.com/?user=skrehanahamed&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=skrehanahamed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" height="175" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/skrehanahamed">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skrehanahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="175" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/skrehanahamed">
+    <img src="https://streak-stats.demolab.com/?user=skrehanahamed&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
   </a>
 </div>
 
