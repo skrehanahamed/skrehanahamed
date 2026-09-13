@@ -117,3 +117,4 @@ Senior Embedded Developer specializing in automotive software architecture, focu
   </a>
 
 </div>
+<!-- Profile updated 2026-09-13 -->
