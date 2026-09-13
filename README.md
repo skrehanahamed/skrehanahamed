@@ -103,6 +103,27 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 
 ---
 
+## Education
+
+| Institution | Degree & Specialization | Field |
+| :---: | :--- | :--- |
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/37/Maulana_Abul_Kalam_Azad_University_of_Technology_Logo.svg" width="55" alt="MAKAUT" /> | **Maulana Abul Kalam Azad University of Technology (MAKAUT)**<br/>Master of Technology (M.Tech) | Computer Science & Engineering |
+| <img src="https://upload.wikimedia.org/wikipedia/en/4/47/Aliah_University_Logo.svg" width="55" alt="Aliah University" /> | **Aliah University**<br/>Bachelor of Technology (B.Tech) | Computer Science & Engineering |
+
+---
+
+## Spoken Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Professional%20Working%20Proficiency-007ACC?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Native%20%2F%20Bilingual-E31937?style=for-the-badge)
+![Bengali](https://img.shields.io/badge/Bengali-Native%20%2F%20Bilingual-006400?style=for-the-badge)
+
+</div>
+
+---
+
 ## Current Focus & Collaboration
 
 * **Active Areas**: Developing deterministic vehicle middleware in modern C++20, profiling embedded Qt Quick Scene Graph rendering pipelines, and building modular Yocto BSP layers for automotive cockpit platforms.
