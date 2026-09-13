@@ -33,28 +33,15 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 
 ## Industry Experience & Client Engagements
 
-### Organizations
 <div align="center">
-
-![L&T Technology Services](https://img.shields.io/badge/L%26T%20Technology%20Services-Senior%20Embedded%20Developer%20(Current)-004C97?style=for-the-badge&logoColor=white)
-![Alten](https://img.shields.io/badge/Alten%20India-Senior%20Embedded%20Developer-00205B?style=for-the-badge&logoColor=white)
-![Wipro](https://img.shields.io/badge/Wipro-Embedded%20Software%20Developer-B7295A?style=for-the-badge&logo=wipro&logoColor=white)
-
+  <img src="./assets/clients_marquee.gif" alt="Enterprise Clients & Partners Marquee" width="100%" />
 </div>
 
-### Client Engagements & Programs Delivered For
-Delivered engineering solutions across automotive OEM, Tier-1 supplier, and advanced technology programs:
+<br/>
 
-<div align="center">
-
-![Stellantis](https://img.shields.io/badge/Stellantis-Global%20Automotive%20OEM-002D62?style=for-the-badge&logoColor=white)
-![Continental](https://img.shields.io/badge/Continental-Automotive%20Tier--1-FFA500?style=for-the-badge&logo=continental&logoColor=black)
-![Ford](https://img.shields.io/badge/Ford-Automotive%20OEM-003478?style=for-the-badge&logo=ford&logoColor=white)
-![Marelli](https://img.shields.io/badge/Marelli-Automotive%20Tier--1-005696?style=for-the-badge&logoColor=white)
-![Suzuki](https://img.shields.io/badge/Suzuki-Automotive%20OEM-E31937?style=for-the-badge&logo=suzuki&logoColor=white)
-![ASML](https://img.shields.io/badge/ASML-Semiconductor%20%26%20Precision%20Engineering-002D62?style=for-the-badge&logoColor=white)
-
-</div>
+| Organizations | Client Programs & Domains |
+| :--- | :--- |
+| **L&T Technology Services (LTTS)** — Senior Embedded Developer *(Current)*<br/>**Alten India** — Senior Embedded Developer<br/>**Wipro** — Embedded Software Developer | **Stellantis** — Global Automotive OEM<br/>**Continental** — Global Automotive Tier-1<br/>**Ford Motor Company** — Automotive OEM<br/>**Marelli** — Tier-1 Cockpits & Powertrain<br/>**Suzuki** — Automotive OEM<br/>**ASML** — Semiconductor & Precision Engineering |
 
 ---
 
