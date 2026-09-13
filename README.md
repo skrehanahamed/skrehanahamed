@@ -37,7 +37,6 @@ Senior Embedded Developer specializing in automotive software architecture, focu
 ![Qt QML](https://img.shields.io/badge/Qt%20Quick%20%2F%20QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash%20%2F%20Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Automotive Systems & Protocols
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Classic%20%26%20Adaptive-E31937?style=for-the-badge)
