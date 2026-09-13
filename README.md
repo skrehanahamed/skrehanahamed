@@ -29,6 +29,45 @@ Senior Embedded Developer specializing in automotive software architecture, focu
 
 ---
 
+## Architecture & System Integration
+
+```mermaid
+flowchart LR
+    subgraph Vehicle_Network ["Vehicle Network & Telemetry"]
+        ECU["Body ECU / Simulator\n(ARM Cortex-M3 / QEMU)"]
+        CAN["CAN / CAN-FD Bus\n(ISO 11898 / UDS)"]
+        ECU --> CAN
+    end
+
+    subgraph OS_Platform ["Embedded Platform (Raspberry Pi 5)"]
+        Yocto["Custom Yocto Linux BSP\n(meta-custom-rpi5)"]
+        Engine["C++20 Telemetry Engine\n(Deterministic IPC)"]
+        Yocto --- Engine
+    end
+
+    subgraph Cockpit_HMI ["Digital Cockpit HMI (Qt 6 / QML)"]
+        Cluster["Digital Instrument Cluster\n(60 FPS Hardware Accelerated)"]
+        IVI["8-Inch IVI Head Unit\n(Audio / Media / Connectivity)"]
+    end
+
+    CAN --> Engine
+    Engine --> Cluster
+    Engine --> IVI
+```
+
+---
+
+## Domain Competencies
+
+| Domain | Standards & Protocols | Key Technologies | Focus Areas |
+| :--- | :--- | :--- | :--- |
+| **Automotive Core** | AUTOSAR, ISO 14229 (UDS), ISO 11898 (CAN/CAN-FD), ISO 26262 (ASIL) | Embedded C, Vector Tools, DBC, SOME/IP | Diagnostic stacks, deterministic message dispatching, safety decomposition |
+| **Digital Cockpit & HMI** | MISRA C++, Qt Guidelines, POSIX Standards | Qt 6, QML, Qt Quick, Modern C++20 | 60 FPS instrument clusters, 8" IVI head units, custom QML quick components |
+| **Embedded Platform & OS** | Yocto Project (Scarthgap / Kirkstone), Linux RT | BitBake, Linux Kernel, Device Trees, TigerVNC | Board support packages (BSP), kiosk touchscreen mode, headless audio pipelines |
+| **Microcontroller Firmware** | ARM CMSIS, Bare-Metal Driver Standards | ARM Cortex-M3, QEMU, FreeRTOS | Peripheral drivers (SPI, I2C, UART, GPIO), timer interrupts, bare-metal telemetry |
+
+---
+
 ## Technical Skills
 
 <div align="center">
@@ -90,6 +129,15 @@ Senior Embedded Developer specializing in automotive software architecture, focu
 
 ---
 
+## Current Engineering Focus
+
+* **Deterministic Vehicle Middleware**: Developing low-latency IPC bridges and real-time telemetry processing using Modern C++20 and POSIX shared memory.
+* **Embedded Graphics Optimization**: Optimizing Qt Quick Scene Graph rendering pipelines and Wayland compositor configurations for embedded Mali/VideoCore GPUs.
+* **Yocto Scarthgap LTS Upgrades**: Transitioning automotive board support package (BSP) layers to the latest Yocto Long Term Support (LTS) releases for ARM64 platforms.
+* **Software-Defined Vehicles (SDV)**: Investigating service-oriented architectures (SOA) utilizing SOME/IP and AUTOSAR Adaptive principles.
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -117,4 +165,3 @@ Senior Embedded Developer specializing in automotive software architecture, focu
   </a>
 
 </div>
-
