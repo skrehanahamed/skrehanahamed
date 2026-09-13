@@ -20,48 +20,22 @@
 
 ## About
 
-Senior Embedded Developer specializing in automotive software architecture, focusing on the intersection of embedded systems, deterministic vehicle communication, and digital cockpit HMIs.
+Senior Embedded Developer at **L&T Technology Services** based in Bangalore, India. I specialize in automotive software engineering, focusing on the intersection of embedded systems, deterministic vehicle communication, and next-generation digital cockpit HMIs.
 
-* **Automotive Architecture**: Production experience with AUTOSAR (Classic & Adaptive), diagnostics stacks (UDS ISO 14229), CAN / CAN-FD bus communication, and Functional Safety (ISO 26262 ASIL) workflows.
-* **Digital Cockpits & IVI**: Design and implementation of instrument cluster HMIs and In-Vehicle Infotainment (IVI) systems utilizing Qt 6 (QML / Qt Quick), modern C++ (C++17/20), and hardware-accelerated 60 FPS graphics rendering.
-* **Embedded Linux & Board Bring-Up**: Custom BSP development and Linux distribution builds using the Yocto Project, targeting production systems and reference platforms including Raspberry Pi 5.
-* **Bare-Metal & Microcontrollers**: Firmware development for ARM Cortex-M microcontrollers, peripheral driver design (SPI, I2C, UART, GPIO), and emulation workflows using QEMU.
-
----
-
-## Architecture & System Integration
-
-```mermaid
-flowchart LR
-    subgraph Vehicle_Network ["Vehicle Network & Telemetry"]
-        ECU["Body ECU / Simulator\n(ARM Cortex-M3 / QEMU)"]
-        CAN["CAN / CAN-FD Bus\n(ISO 11898 / UDS)"]
-        ECU --> CAN
-    end
-
-    subgraph OS_Platform ["Embedded Platform (Raspberry Pi 5)"]
-        Yocto["Custom Yocto Linux BSP\n(meta-custom-rpi5)"]
-        Engine["C++20 Telemetry Engine\n(Deterministic IPC)"]
-        Yocto --- Engine
-    end
-
-    subgraph Cockpit_HMI ["Digital Cockpit HMI (Qt 6 / QML)"]
-        Cluster["Digital Instrument Cluster\n(60 FPS Hardware Accelerated)"]
-        IVI["8-Inch IVI Head Unit\n(Audio / Media / Connectivity)"]
-    end
-
-    CAN --> Engine
-    Engine --> Cluster
-    Engine --> IVI
-```
+### Core Experience & Responsibilities
+* **Automotive Digital Cockpits**: Designing and engineering full-lifecycle instrument cluster HMIs and In-Vehicle Infotainment (IVI) systems with Qt 6 (QML / Qt Quick) and modern C++ (C++17/20).
+* **Vehicle Communication & Protocols**: Implementing telemetry pipelines and ECU communications utilizing CAN / CAN-FD (ISO 11898), diagnostic services with UDS (ISO 14229), and AUTOSAR Classic / Adaptive methodologies.
+* **Functional Safety & Quality Standards**: Developing code aligned with ISO 26262 functional safety processes, following MISRA C/C++ coding guidelines, and maintaining verification coverage using Google Test (GTest).
+* **Embedded OS & BSP Engineering**: Authoring custom Yocto Project BSP layers, BitBake recipes, and headless system configurations for ARM64 embedded platforms, including the Raspberry Pi 5.
+* **Bare-Metal Microcontroller Development**: Firmware development for ARM Cortex-M microcontrollers, low-level bus drivers (SPI, I2C, UART, GPIO), and virtual ECU simulations in QEMU.
 
 ---
 
 ## Domain Competencies
 
-| Domain | Standards & Protocols | Key Technologies | Focus Areas |
+| Domain | Standards & Protocols | Key Technologies | Core Responsibilities |
 | :--- | :--- | :--- | :--- |
-| **Automotive Core** | AUTOSAR, ISO 14229 (UDS), ISO 11898 (CAN/CAN-FD), ISO 26262 (ASIL) | Embedded C, Vector Tools, DBC, SOME/IP | Diagnostic stacks, deterministic message dispatching, safety decomposition |
+| **Automotive Software** | AUTOSAR, ISO 14229 (UDS), ISO 11898 (CAN/CAN-FD), ISO 26262 (ASIL) | Embedded C, Vector Tools, DBC, SOME/IP | Diagnostic stacks, deterministic message dispatching, safety decomposition |
 | **Digital Cockpit & HMI** | MISRA C++, Qt Guidelines, POSIX Standards | Qt 6, QML, Qt Quick, Modern C++20 | 60 FPS instrument clusters, 8" IVI head units, custom QML quick components |
 | **Embedded Platform & OS** | Yocto Project (Scarthgap / Kirkstone), Linux RT | BitBake, Linux Kernel, Device Trees, TigerVNC | Board support packages (BSP), kiosk touchscreen mode, headless audio pipelines |
 | **Microcontroller Firmware** | ARM CMSIS, Bare-Metal Driver Standards | ARM Cortex-M3, QEMU, FreeRTOS | Peripheral drivers (SPI, I2C, UART, GPIO), timer interrupts, bare-metal telemetry |
@@ -129,12 +103,10 @@ flowchart LR
 
 ---
 
-## Current Engineering Focus
+## Current Focus & Collaboration
 
-* **Deterministic Vehicle Middleware**: Developing low-latency IPC bridges and real-time telemetry processing using Modern C++20 and POSIX shared memory.
-* **Embedded Graphics Optimization**: Optimizing Qt Quick Scene Graph rendering pipelines and Wayland compositor configurations for embedded Mali/VideoCore GPUs.
-* **Yocto Scarthgap LTS Upgrades**: Transitioning automotive board support package (BSP) layers to the latest Yocto Long Term Support (LTS) releases for ARM64 platforms.
-* **Software-Defined Vehicles (SDV)**: Investigating service-oriented architectures (SOA) utilizing SOME/IP and AUTOSAR Adaptive principles.
+* **Active Areas**: Developing deterministic vehicle middleware in modern C++20, profiling embedded Qt Quick Scene Graph rendering pipelines, and building modular Yocto BSP layers for automotive cockpit platforms.
+* **Open to Collaborate**: Open-source embedded automotive tools, digital cockpit simulations, automotive Linux BSP architectures, and technical discussions around AUTOSAR / ISO 26262.
 
 ---
 
