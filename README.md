@@ -93,11 +93,11 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 <div align="center">
   <a href="https://github.com/skrehanahamed/Apex_MidEnd_Cluster">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_Cluster&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_Cluster" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_Cluster&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_Cluster" width="395" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed/Apex_MidEnd_IVI">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_IVI&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_IVI" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=Apex_MidEnd_IVI&theme=tokyonight&hide_border=true&border_radius=8" alt="Apex_MidEnd_IVI" width="395" />
   </a>
 </div>
 
@@ -105,11 +105,11 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 <div align="center">
   <a href="https://github.com/skrehanahamed/meta-custom-rpi5">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=meta-custom-rpi5&theme=tokyonight&hide_border=true&border_radius=8" alt="meta-custom-rpi5" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=meta-custom-rpi5&theme=tokyonight&hide_border=true&border_radius=8" alt="meta-custom-rpi5" width="395" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed/virtual-body-ecu">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=virtual-body-ecu&theme=tokyonight&hide_border=true&border_radius=8" alt="virtual-body-ecu" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=virtual-body-ecu&theme=tokyonight&hide_border=true&border_radius=8" alt="virtual-body-ecu" width="395" />
   </a>
 </div>
 
@@ -158,11 +158,11 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 <div align="center">
   <a href="https://github.com/skrehanahamed">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=skrehanahamed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=skrehanahamed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" height="160" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skrehanahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skrehanahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="160" />
   </a>
 </div>
 
@@ -170,15 +170,7 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 
 <div align="center">
   <a href="https://github.com/skrehanahamed">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrehanahamed&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/skrehanahamed">
-    <img src="https://streak-stats.demolab.com/?user=skrehanahamed&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=skrehanahamed&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160" />
   </a>
 </div>
 
