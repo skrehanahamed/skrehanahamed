@@ -104,8 +104,8 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/skrehanahamed/meta-custom-rpi5">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=meta-custom-rpi5&theme=tokyonight&hide_border=true&border_radius=8" alt="meta-custom-rpi5" width="395" />
+  <a href="https://github.com/skrehanahamed/ApexECU_Cluster">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skrehanahamed&repo=ApexECU_Cluster&theme=tokyonight&hide_border=true&border_radius=8" alt="ApexECU_Cluster" width="395" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed/virtual-body-ecu">
@@ -119,8 +119,7 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
 | :--- | :--- | :---: | :--- |
 | [**Apex_MidEnd_Cluster**](https://github.com/skrehanahamed/Apex_MidEnd_Cluster) | Production-grade automotive digital cockpit HMI modeling instrument cluster architecture with deterministic powertrain telemetry and 60 FPS hardware-accelerated rendering. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/Apex_MidEnd_Cluster?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/Apex_MidEnd_Cluster/stargazers) | `Qt 6` `Modern C++20` `QML` `Automotive HMI` |
 | [**Apex_MidEnd_IVI**](https://github.com/skrehanahamed/Apex_MidEnd_IVI) | Automotive In-Vehicle Infotainment (IVI) & 8" Display Audio Head Unit featuring audio playback, media management, and Bluetooth telemetry for the Apex ecosystem. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/Apex_MidEnd_IVI?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/Apex_MidEnd_IVI/stargazers) | `Qt 6` `C++20` `QML` `BlueZ` `PulseAudio` |
-| [**meta-custom-rpi5**](https://github.com/skrehanahamed/meta-custom-rpi5) | Production-ready Yocto Linux OS distribution and headless Qt 6.7 IVI platform for Raspberry Pi 5 with TigerVNC, auto-WiFi provisioning, and touchscreen kiosk mode. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/meta-custom-rpi5?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/meta-custom-rpi5/stargazers) | `Yocto` `BitBake` `Raspberry Pi 5` `Embedded Linux` |
-| [**ApexECU_Cluster**](https://github.com/skrehanahamed/ApexECU_Cluster) | EV Digital Instrument Cluster coupled with an interactive ECU telemetry simulator. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/ApexECU_Cluster?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/ApexECU_Cluster/stargazers) | `Qt 6` `Modern C++` `QML` `ECU Telemetry` |
+| [**ApexECU_Cluster**](https://github.com/skrehanahamed/ApexECU_Cluster) | Next-Gen APEX SUV EV Digital Instrument Cluster coupled with an interactive ECU telemetry simulator. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/ApexECU_Cluster?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/ApexECU_Cluster/stargazers) | `Qt 6` `Modern C++` `QML` `ECU Telemetry` |
 | [**virtual-body-ecu**](https://github.com/skrehanahamed/virtual-body-ecu) | Bare-metal automotive Body ECU simulation running on an emulated ARM Cortex-M3 (QEMU) with virtual vehicle sensors, periodic CAN telemetry, and a web dashboard. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/virtual-body-ecu?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/virtual-body-ecu/stargazers) | `Bare-Metal C` `ARM Cortex-M3` `QEMU` `CAN Bus` |
 | [**Cpp_SpeedTest_Bazel_GTest**](https://github.com/skrehanahamed/Cpp_SpeedTest_Bazel_GTest) | High-performance C++ network benchmarking engine built with Bazel, comprehensive GTest unit/integration suites, and web visualization. | [![Stars](https://img.shields.io/github/stars/skrehanahamed/Cpp_SpeedTest_Bazel_GTest?style=flat-square&color=007ACC)](https://github.com/skrehanahamed/Cpp_SpeedTest_Bazel_GTest/stargazers) | `Modern C++` `Bazel` `Google Test` `Networking` |
 
@@ -163,6 +162,18 @@ Senior Embedded Developer based in Bangalore, India, specializing in automotive 
   &nbsp;&nbsp;
   <a href="https://github.com/skrehanahamed">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=skrehanahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="160" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/skrehanahamed">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrehanahamed&theme=tokyonight" alt="Languages per Repo" height="160" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/skrehanahamed">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrehanahamed&theme=tokyonight" alt="Productive Time" height="160" />
   </a>
 </div>
 
