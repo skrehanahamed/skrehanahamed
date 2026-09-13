@@ -31,6 +31,33 @@ Senior Embedded Developer at **L&T Technology Services** based in Bangalore, Ind
 
 ---
 
+## Industry Experience & Client Engagements
+
+### Organizations
+<div align="center">
+
+![L&T Technology Services](https://img.shields.io/badge/L%26T%20Technology%20Services-Senior%20Embedded%20Developer%20(Current)-004C97?style=for-the-badge&logoColor=white)
+![Alten](https://img.shields.io/badge/Alten%20India-Senior%20Embedded%20Developer-00205B?style=for-the-badge&logoColor=white)
+![Wipro](https://img.shields.io/badge/Wipro-Embedded%20Software%20Developer-B7295A?style=for-the-badge&logo=wipro&logoColor=white)
+
+</div>
+
+### Client Engagements & Programs Delivered For
+Delivered engineering solutions across automotive OEM, Tier-1 supplier, and advanced technology programs:
+
+<div align="center">
+
+![Stellantis](https://img.shields.io/badge/Stellantis-Global%20Automotive%20OEM-002D62?style=for-the-badge&logoColor=white)
+![Continental](https://img.shields.io/badge/Continental-Automotive%20Tier--1-FFA500?style=for-the-badge&logo=continental&logoColor=black)
+![Ford](https://img.shields.io/badge/Ford-Automotive%20OEM-003478?style=for-the-badge&logo=ford&logoColor=white)
+![Marelli](https://img.shields.io/badge/Marelli-Automotive%20Tier--1-005696?style=for-the-badge&logoColor=white)
+![Suzuki](https://img.shields.io/badge/Suzuki-Automotive%20OEM-E31937?style=for-the-badge&logo=suzuki&logoColor=white)
+![ASML](https://img.shields.io/badge/ASML-Semiconductor%20%26%20Precision%20Engineering-002D62?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
 ## Domain Competencies
 
 | Domain | Standards & Protocols | Key Technologies | Core Responsibilities |
